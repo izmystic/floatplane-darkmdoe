@@ -1,3 +1,6 @@
+> [!NOTE]  
+> No longer needed as floatplane has a native dark mode
+
 # floatplane-darkmdoe
 darkmode for floatplane.com
 
